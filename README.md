@@ -6,6 +6,7 @@ Optical character recognition (OCR), or “ocerization”, refers to computer pr
 A computer requires OCR software to perform this task. This makes it possible to recover the text in the image of a printed text and save it in a file that 
 can be used in a word processor for enrichment, and stored in a database or on another medium that can be used by a computer system.
 
-The project consists of:
-1- Develop a PDF document recognition tool written in Arabic using OCR.
+The project consists of: \n
+
+1- Develop a PDF document recognition tool written in Arabic using OCR. \n
 2- Classify the document according to content by referring to labels
