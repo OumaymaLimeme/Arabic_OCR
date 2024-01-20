@@ -1,6 +1,6 @@
 # Arabic_OCR
 
-##Setting up a classification system for a pdf document written en Arabic
+## Setting up a classification system for a pdf document written en Arabic
 
 Optical character recognition (OCR), or “ocerization”, refers to computer processes for translating images of printed or typewritten text into text files.
 A computer requires OCR software to perform this task. This makes it possible to recover the text in the image of a printed text and save it in a file that 
